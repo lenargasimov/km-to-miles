@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/lVJvPplEQUFpe/giphy.gif" align="center" alt="gif" />
+<img src="https://www.qtransform.com/imagini/formula/lungime/formula-mi-km.gif" align="center" alt="gif" />
 
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/lenargasimov/km-to-miles?style=plastic">
