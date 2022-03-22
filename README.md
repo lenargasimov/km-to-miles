@@ -1,4 +1,4 @@
-<h1 align="center">📟 Kilometers to Miles (km to mi) Converter (Python/Tkinter) 
+<h1 align="center">📟 Kilometers to Miles (km to mi) Converter
     <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/km-to-miles&via=lenargasimov&hashtags=python,developers">
       <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
